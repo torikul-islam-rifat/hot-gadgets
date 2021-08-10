@@ -1,0 +1,52 @@
+.btn{
+    padding: auto;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.shoe {
+    padding: 50px;
+    /* background-color: green; */
+    transition: transform .5s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .shoe:hover {
+    transform: scale(1.1); 
+    box-shadow: -5px 9px 20px 20px lightgrey; 
+}
+  .perfium{
+    padding: 50px;
+    /* background-color: green; */
+    transition: transform .5s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .perfium:hover {
+      transform: scale(1.1); 
+    box-shadow: -5px 9px 20px 20px lightgrey; 
+}
+  .bag{
+    padding: 50px;
+    /* background-color: green; */
+    transition: transform .5s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .bag:hover {
+      transform: scale(1.1); 
+    box-shadow: -5px 9px 20px 20px lightgrey; 
+}
+.card{
+  border: none;
+  /* box-shadow: -5px 9px 20px 20px lightgrey; */
+  
+
+}
